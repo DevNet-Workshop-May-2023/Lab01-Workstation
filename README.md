@@ -45,6 +45,6 @@
 
 1. Open your Browser and navigate to https://10.2.0.43/
 <img width="1476" alt="image" src="https://user-images.githubusercontent.com/66415321/233562033-e28230cd-e11f-4d2f-b4a2-0f377fa3e0e8.png">
-2. Login to the APIC with your user/password (look in the first section of this guide ;) )
+2. Login to the APIC with your user/password (look in the first section of this guide ;) )   
 3. Close the welcome Screen and admire the GUI 
 <img width="1593" alt="image" src="https://user-images.githubusercontent.com/66415321/233562235-12814d50-9a1a-4dbf-8ce5-681309763f7c.png">
