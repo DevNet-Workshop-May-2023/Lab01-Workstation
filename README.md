@@ -4,7 +4,7 @@
 
 | Student Number  | Workstation |  Zugang |
 | ------------- | ------------- | ------------- |
-| APIC | https://10.2.0.43/  | wsuser{studentumber}/DevnetWorkshop! |
+| APIC | https://10.2.0.43/  | wsuser{studentnumber}/DevnetWorkshop! |
 
 #
 ## Workstations
