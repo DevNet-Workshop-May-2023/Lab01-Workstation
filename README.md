@@ -5,6 +5,7 @@
 | Student Number  | Workstation |  Zugang |
 | ------------- | ------------- | ------------- |
 | APIC | https://10.2.0.43/  | wsuser{studentnumber}/DevnetWorkshop! |
+| Ansible Automation Platform | https://dcaap02.dus.ciscolabs.com | wsuser{studentnumber}/DevnetWorkshop! |
 
 #
 ## Workstations
@@ -27,8 +28,11 @@
 | 13  | demows13.dus.ciscolabs.com  |
 | 14  | demows14.dus.ciscolabs.com  |
 | 15  | demows15.dus.ciscolabs.com  |
-
-
+| 16  | demows16.dus.ciscolabs.com  |
+| 17  | demows17.dus.ciscolabs.com  |
+| 18  | demows18.dus.ciscolabs.com  |
+| 19  | demows19.dus.ciscolabs.com  |
+| 20  | demows20.dus.ciscolabs.com  |
 
 ## Lab
 
@@ -41,7 +45,11 @@
 <img width="1498" alt="image" src="https://user-images.githubusercontent.com/66415321/233561573-40d7b609-4dd3-4ba5-8cfd-11a554165182.png">
 
 ### Open Apps
-1. Click on Activities in the top right corner and open Postman
+1. Click on Activities in the top right corner and open Postman (First start of the App will take a few seconds)
+<img width="1478" alt="image" src="https://github.com/DevNet-Workshop-May-2023/Lab01-Workstation/assets/66415321/eb34ee05-0231-4ab2-b120-a73c9578af6d">
+2. Click on "Skip and go to the app"
+<img width="1492" alt="image" src="https://github.com/DevNet-Workshop-May-2023/Lab01-Workstation/assets/66415321/ef98eaa0-e4fa-498f-a691-53b0718c8718">
+
 
 ### Test APIC Access
 
