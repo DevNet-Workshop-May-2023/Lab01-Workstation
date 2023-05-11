@@ -13,26 +13,26 @@
 
 | Student Number  | Workstation |
 | ------------- | ------------- |
-| 1  | demows01.dus.ciscolabs.com  |
-| 2  | demows02.dus.ciscolabs.com  |
-| 3  | demows03.dus.ciscolabs.com  |
-| 4  | demows04.dus.ciscolabs.com  |
-| 5  | demows05.dus.ciscolabs.com  |
-| 6  | demows06.dus.ciscolabs.com  |
-| 7  | demows07.dus.ciscolabs.com  |
-| 8  | demows08.dus.ciscolabs.com  |
-| 9  | demows09.dus.ciscolabs.com  |
-| 10  | demows10.dus.ciscolabs.com  |
-| 11  | demows11.dus.ciscolabs.com  |
-| 12  | demows12.dus.ciscolabs.com  |
-| 13  | demows13.dus.ciscolabs.com  |
-| 14  | demows14.dus.ciscolabs.com  |
-| 15  | demows15.dus.ciscolabs.com  |
-| 16  | demows16.dus.ciscolabs.com  |
-| 17  | demows17.dus.ciscolabs.com  |
-| 18  | demows18.dus.ciscolabs.com  |
-| 19  | demows19.dus.ciscolabs.com  |
-| 20  | demows20.dus.ciscolabs.com  |
+| 1  | demows-1.dus.ciscolabs.com  |
+| 2  | demows-2.dus.ciscolabs.com  |
+| 3  | demows-3.dus.ciscolabs.com  |
+| 4  | demows-4.dus.ciscolabs.com  |
+| 5  | demows-5.dus.ciscolabs.com  |
+| 6  | demows-6.dus.ciscolabs.com  |
+| 7  | demows-7.dus.ciscolabs.com  |
+| 8  | demows-8.dus.ciscolabs.com  |
+| 9  | demows-9.dus.ciscolabs.com  |
+| 10  | demows-10.dus.ciscolabs.com  |
+| 11  | demows-11.dus.ciscolabs.com  |
+| 12  | demows-12.dus.ciscolabs.com  |
+| 13  | demows-13.dus.ciscolabs.com  |
+| 14  | demows-14.dus.ciscolabs.com  |
+| 15  | demows-15.dus.ciscolabs.com  |
+| 16  | demows-16.dus.ciscolabs.com  |
+| 17  | demows-17.dus.ciscolabs.com  |
+| 18  | demows-18.dus.ciscolabs.com  |
+| 19  | demows-19.dus.ciscolabs.com  |
+| 20  | demows-20.dus.ciscolabs.com  |
 
 ## Lab
 
